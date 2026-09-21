@@ -41,10 +41,9 @@ Aðalársksturinn í kerfinu varðar kröfuna um **sjálfvirkni og hraða** hjá
 Verkefninu var skipt jafnt á milli tveggja hópmeðlima þar sem unnið var úr greiningum á hagsmunaaðilum (`STAKEHOLDERS.md`), greiningu á árekstrum og úrlausnum þeirra (`CONFLICTS.md`), ásamt því að tengja þær við viðskiptakröfur, notendakröfur og virknikröfur kerfisins. Nánari samantekt um verkaskiptingu, endurmat og svör um hvað gekk vel og hvað mátti bæta eru dregin saman í skránni:
 
 [Verkaskipting og ígrundun](Vinnuferli.md)
-<!-- [Verkaskipting og ígrundun](VERKASKIPTING-IGRUNDUN.md) þetta skjal var ekki gefip með template og sé að það séu dálkar fyirr verkefnaskiptingu og í grundun í vinnuferli.md þannig mun tengja það við vinnuvferli.md -->
 
 ## 5. Vinnuferli
 
-Allt vinnuflæði hópsins var framkvæmt beint í gegnum GitHub vefviðmótið. Vinnulag fólst í því að stofna **Issue** fyrir hvern verkpakka, búa til **Branch**, vinna textann og senda inn **Pull Request (PR)** þar sem hinn hópmeðlimurinn rýndi textann áður en hann var sameinaður (*merged*) yfir á `main` greinina. Gagnsæisyfirlýsingu um notkun gervigreindar má finna í skránni:
+Vinnuflæði hópsins var framkvæmt með Git og GitHub. Vinnulag fólst í því að stofna Issue fyrir verkþætti, vinna á aðskildum greinum, vista breytingar með commit og push og senda síðan Pull Request (PR), þar sem hinn hópmeðlimurinn rýndi breytingarnar áður en þær voru sameinaðar við main greinina. Nánari lýsingu á vinnuferli, verkaskiptingu og ígrundun má finna í skránni:
 
 [Vinnuferli](Vinnuferli.md)
