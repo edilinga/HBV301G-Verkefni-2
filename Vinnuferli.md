@@ -25,7 +25,7 @@ Notkun Git og GitHub auðveldaði okkur að halda utan um breytingar og vinna sk
 
 ### Gagnsæisyfirlýsing um notkun gervigreindar
 
-Við vinnslu verkefnisins var ChatGPT notað sem hjálpartæki. Gervigreind var meðal annars notuð til að útskýra hugtök, aðstoða við túlkun verkefnalýsingar, koma með tillögur að uppsetningu og orðalagi, yfirfara efni og aðstoða við notkun Git og GitHub.
+Við vinnslu verkefnisins var ChatGPT og Gemini notað sem hjálpartæki. Gervigreind var meðal annars notuð til að útskýra hugtök, aðstoða við túlkun verkefnalýsingar, koma með tillögur að uppsetningu og orðalagi, yfirfara efni og aðstoða við notkun Git og GitHub.
 
 Kvaðningar sneru meðal annars að greiningu hagsmunaaðila og notendahópa, persónulýsingu, uppsetningu efnis og vinnuferli í Git og GitHub. Úttak gervigreindar var yfirfarið, metið og aðlagað að verkefninu og því kerfi sem unnið er með.
 
