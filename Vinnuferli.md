@@ -2,28 +2,32 @@
 
 ## Hópavinna og geymsla 
 
-Takið fram hverjir eru í hópnum, hver verkaskiptinging er, hvert Git repository er. 
-Hver og einn á að setja inn og viðhalda geymslunni (Git)
+Í hópnum eru Edil Inga Kristjánsdóttir og Gabríel Orri Karlsson.
+
+Verkefnið var unnið í sameiginlegri GitHub-geymslu: https://github.com/edilinga/HBV301G-Verkefni-2.git
+
+Báðir hópmeðlimir unnu í geymslunni með Git og GitHub og lögðu sitt af mörkum með commit, push og pull request.
 
 ## Verkaskipting
-- Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
-- Hvernig þið rýnduð kröfurnar hjá hvert öðru
-- Hvernig þið gerðuð pull, commit og push og Pull Request
+Verkefninu var skipt þannig að Edil Inga sá um greiningu hagsmunaaðila í `STAKEHOLDERS.md` og skráningu vinnuferlis í `Vinnuferli.md`. Gabríel sá um greiningu árekstra í `CONFLICTS.md` og vinnu við `SRS.md`.
+
+Hópmeðlimir unnu að sínum verkefnum á aðskildum greinum. Breytingar voru vistaðar með commit og síðan push-aðar á GitHub. Pull request voru stofnuð fyrir breytingarnar áður en þær voru sameinaðar við aðalgrein verkefnisins.
+
+Við fórum yfir vinnu hvors annars í gegnum pull request og gerðum breytingar eftir þörfum áður en efnið var sameinað við aðalgreinina.
 
 ## Ígrundun
-- Í lok verkefnis gerið endurmat á verkefninu:
-    - Hvað gekk vel í verkefninu
-    - Hvað má bæta næst
+Hópavinnan gekk vel og verkaskiptingin var skýr. Við skiptum verkefninu á milli okkar þannig að hvor aðili bar ábyrgð á ákveðnum hlutum þess. Það gerði okkur kleift að vinna samhliða án þess að vera stöðugt að breyta sömu skrám. Samskipti gengu einnig vel og við létum hvort annað vita þegar einstökum hlutum var lokið eða þeir voru tilbúnir til rýni.
+
+Notkun Git og GitHub auðveldaði okkur að halda utan um breytingar og vinna skipulega. Með því að nota aðskildar greinar og pull request gátum við rýnt breytingar áður en þær voru sameinaðar við aðalgreinina. Við rýni komu einnig í ljós atriði sem þurfti að lagfæra, sem sýndi mikilvægi þess að annar hópmeðlimur færi yfir breytingar áður en þeim væri endanlega skilað.
+
+Það sem mætti bæta næst væri að skipuleggja verkaskiptingu og vinnuferli enn fyrr í verkefninu. Einnig væri hægt að ákveða fyrirfram skýrari viðmið um hvenær hver hluti ætti að vera tilbúinn til rýni. Það myndi gefa meiri tíma fyrir sameiginlega yfirferð í lokin og draga úr hættu á að smávægileg atriði uppgötvist rétt fyrir skil.
+
 
 ### Gagnsæisyfirlýsing um notkun gervigreindar
 
-Ef þið notið gervigreind við vinnslu verkefnisins skal koma fram:
+Við vinnslu verkefnisins var ChatGPT og Gemini notað sem hjálpartæki. Gervigreind var meðal annars notuð til að útskýra hugtök, aðstoða við túlkun verkefnalýsingar, koma með tillögur að uppsetningu og orðalagi, yfirfara efni og aðstoða við notkun Git og GitHub.
 
-- hvaða gervigreindarverkfæri voru notuð,
-- hvaða kvaðningar (prompts) voru notaðar,
-- í hvaða tilgangi gervigreind var notuð,
-- hvernig þið breyttuð gervigreindarúttakinu og/eða nýttuð það?
+Kvaðningar sneru meðal annars að greiningu hagsmunaaðila og notendahópa, persónulýsingu, uppsetningu efnis og vinnuferli í Git og GitHub. Úttak gervigreindar var yfirfarið, metið og aðlagað að verkefninu og því kerfi sem unnið er með.
 
-Þið skuluð einnig lýsa því yfir að þið hafið yfirfarið efni sem kemur frá gervigreind og berið ábyrgð á öllu efni sem þið skilið.
-Ef gervigreind var ekki notuð við vinnslu verkefnisins skal það koma fram í gagnsæisyfirlýsingunni.
+Við höfum yfirfarið efni sem kemur frá gervigreind og berum ábyrgð á öllu efni sem skilað er.
 
