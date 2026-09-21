@@ -20,10 +20,6 @@ Greinið helstu hagsmunaaðila vörunnar. Notið töfluna til að lýsa hlutverk
 
 Veljið 1–2 af hagsmunaaðilunum hér að ofan og lýsið helstu þörfum þeirra sem varan þarf að taka mið af.
 
-### [Hagsmunaaðili]
-**Helstu þarfir:**  
-[Lýsing]
-
 #### Starfsmenn
 **Helstu þarfir:**  
 Starfsmenn þurfa að geta séð sínar vaktir á einfaldan hátt og óskað eftir vaktaskiptum þegar þeir geta ekki mætt. Þeir þurfa einnig að geta séð stöðu beiðna og fengið skýrar tilkynningar þegar vaktaskipti eru samþykkt eða þeim hafnað.
@@ -35,10 +31,6 @@ Vaktstjórar þurfa að hafa skýra yfirsýn yfir vaktaskipulag og beiðnir um v
 ## Notendahópar
 
 Greinið helstu notendahópa vörunnar.
-
-### [Heiti notendahóps]
-- **Tegund:** [ ] Beinn notandi  [ ] Óbeinn notandi
-- **Lýsing:** [Hlutverk, markmið og tengsl við vöruna]
 #### Starfsmenn
 - **Tegund:** [x] Beinn notandi  [ ] Óbeinn notandi
 - **Lýsing:** Starfsmenn nota kerfið til að skoða eigin vaktir, óska eftir vaktaskiptum og taka við lausum vöktum. Markmið þeirra er að geta leyst úr breytingum á vaktaplani á einfaldan og skilvirkan hátt.
@@ -51,36 +43,13 @@ Greinið helstu notendahópa vörunnar.
 - **Tegund:** [ ] Beinn notandi  [x] Óbeinn notandi
 - **Lýsing:** Launadeild nýtir upplýsingar sem verða til í kerfinu við launavinnslu. Mikilvægt er að upplýsingar um unnar vaktir og breytingar á vaktaplani séu réttar og rekjanlegar.
 
+
+Starfsmenn eru valdir sem mikilvægur notendahópur til frekari greiningar þar sem þeir nota kerfið reglulega við vaktaskipti og verða fyrir beinum áhrifum af virkni þess.
+
 ## Persona fyrir valinn notendahóp
 
 - **Nafn:** Sara Jónsdóttir
 - **Notendahópur:** Starfsmaður
 - **Starf/hlutverk:** Starfsmaður í verslun í hlutastarfi
-- **Markmið og þarfir:** Sara vill hafa skýra yfirsýn yfir sínar vaktir og geta auðveldlega óskað eftir vaktaskiptum þegar eitthvað kemur upp. Hún vill geta séð hvort annar starfsmaður geti tekið vaktina og fá skýra staðfestingu þegar vaktaskipti hafa verið samþykkt.
+- **Markmið og þarfir:** Sara vill hafa skýra yfirsýn yfir sínar vaktir og geta auðveldlega óskað eftir vaktaskiptum þegar eitthvað kemur upp. Hún vill geta séð hvort annar hæfur og tiltækur starfsmaður geti tekið vaktina og fá skýra staðfestingu þegar vaktaskipti hafa verið samþykkt.
 - **Lýsing:** Sara er 24 ára háskólanemi sem vinnur á vöktum samhliða námi. Námið og aðrar skuldbindingar geta stundum valdið því að hún þarf að losna við vakt með stuttum fyrirvara. Hún notar símann mikið í daglegu lífi og vill geta gengið frá vaktaskiptum hratt án þess að þurfa að senda skilaboð á marga samstarfsmenn eða fylgjast með löngum spjallþráðum.
-
-<!-- Afritið sniðmátið eftir þörfum -->
-
-
-## Persona fyrir valinn notendahóp
-
-<!--
-Búið til persona sem er dæmigerður fulltrúi notendahópsins sem þið völduð
-til frekari greiningar hér að ofan.
-
-Persona lýsir tilbúnum einstaklingi sem byggir á einkennum viðkomandi
-notendahóps. Lýsingin á að beina sjónum að þeim eiginleikum, markmiðum,
-þörfum og aðstæðum sem skipta máli fyrir notkun vörunnar.
-
-Persona á að hjálpa teyminu að setja sig í spor notandans og getur þannig
-verið upphafspunktur fyrir kröfur sem síðar eru sannreyndar með notendum.
-
-Sjá dæmi á bls. 107 í Wiegers og Beatty.
--->
-
-- **Nafn:**
-- **Notendahópur:**
-- **Starf/hlutverk:**
-- **Markmið og þarfir:**
-- **Lýsing:**
-
